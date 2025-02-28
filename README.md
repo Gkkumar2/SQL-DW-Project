@@ -60,8 +60,9 @@ The project follows the **Star Schema** modeling approach, which consists of:
 - **Fact Tables** - Storing transactional data
 - **Dimension Tables** - Storing descriptive information
 
-📌 *Data Model (Star Schema)*
+📌 * Data Model (Star Schema) *
 ![Data Model](https://github.com/Gkkumar2/SQL-DW-Project/blob/main/Docs/star%20schema.jpeg)
+
 ---
 
 ## ⚙️ Tools & Technologies Used
@@ -70,7 +71,7 @@ The project follows the **Star Schema** modeling approach, which consists of:
 - **Data Visualization:** Power BI / Tableau
 - **Project Management:** Notion
 - **Version Control:** GitHub
-- **Diagramming Tool:** Draw.io
+- **Diagramming Tool:** Lucidchart
 
 ---
 
@@ -89,7 +90,7 @@ The project follows the **Star Schema** modeling approach, which consists of:
 ├── 📂 Documentation
 │   ├── Data_Model_Diagram.png
 │   ├── ETL_Workflow.png
-│   ├── Project_Plan.md
+│   ├── Star Schema.png
 │
 ├── 📜 README.md
 ```
@@ -118,19 +119,8 @@ This project follows an **agile approach** and is managed using **Notion**. The 
 6. **Testing & Validation**
 7. **Final Documentation & Deployment**
 
-📌 *Diagram Placeholder: Project Plan (Notion Overview)*
-
 ---
 
-## 🤝 Contributing
-Contributions are welcome! To contribute:
-1. Fork this repository
-2. Create a feature branch (`git checkout -b feature-name`)
-3. Commit changes (`git commit -m 'Added new feature'`)
-4. Push to GitHub (`git push origin feature-name`)
-5. Submit a Pull Request
-
----
 
 ## 📜 License
 This project is licensed under the **MIT License**.
@@ -151,4 +141,6 @@ For any questions or discussions, feel free to reach out:
 - [ ] Document data model & ETL workflow
 
 Happy Coding! 🚀
-
+---
+## 🎯 Next part
+[Next](https://linkedin.com/in/yourprofile)
