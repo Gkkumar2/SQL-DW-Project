@@ -1,4 +1,4 @@
-# Modern SQL Data Warehouse Project
+# <center>Modern SQL Data Warehouse Project<center>
 
 ![Data Integration Model](https://github.com/Gkkumar2/SQL-DW-Project/blob/main/Docs/datawarehouse.jpeg)
 
