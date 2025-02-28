@@ -40,7 +40,9 @@ We will be using the **Medallion Architecture**, which consists of three main la
 2. **Silver Layer** - Cleaned and standardized data
 3. **Gold Layer** - Business-ready data for reporting
 
-📌 *Diagram Placeholder: Data Architecture Overview*
+📌 *Data Architecture Overview*
+![Data Architecture](https://github.com/Gkkumar2/SQL-DW-Project/blob/main/Docs/Data%20architect.jpeg)
+
 
 ### 🔧 ETL Process
 The **ETL process** (Extract, Transform, Load) is critical to ensuring data quality and usability. Our pipeline follows these steps:
@@ -48,7 +50,8 @@ The **ETL process** (Extract, Transform, Load) is critical to ensuring data qual
 2. **Transform:** Apply **data cleansing, normalization, and enrichment**
 3. **Load:** Store the transformed data into the data warehouse
 
-📌 *Diagram Placeholder: ETL Workflow*
+📌 *ETL Workflow*
+![ETL Workflow](https://github.com/Gkkumar2/SQL-DW-Project/blob/main/Docs/data%20flow.jpeg)
 
 ---
 
@@ -57,8 +60,8 @@ The project follows the **Star Schema** modeling approach, which consists of:
 - **Fact Tables** - Storing transactional data
 - **Dimension Tables** - Storing descriptive information
 
-📌 *Diagram Placeholder: Data Model (Star Schema)*
-
+📌 *Data Model (Star Schema)*
+![Data Model](https://github.com/Gkkumar2/SQL-DW-Project/blob/main/Docs/star%20schema.jpeg)
 ---
 
 ## ⚙️ Tools & Technologies Used
