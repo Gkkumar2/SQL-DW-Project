@@ -1,6 +1,6 @@
 <div align="center">
 
-# Modern SQL Data Warehouse Project
+# 🏢 Modern SQL Data Warehouse Project
 
 ![Data Integration Model](https://github.com/Gkkumar2/SQL-DW-Project/blob/main/Docs/datawarehouse.jpeg)
 
