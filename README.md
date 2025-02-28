@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Introduction
-Welcome to the **Modern SQL Data Warehouse Project**! This project is designed to help you build a **fully functional data warehouse** from scratch, while also learning real-world best practices and methodologies used in **industry-leading companies**.
+Welcome to the **Modern SQL Data Warehouse Project**! This project is designed to  build a **fully functional data warehouse** from scratch, while also learning real-world best practices and methodologies used in **industry-leading companies**.
 
 This project is beneficial for:
 - **Data Architects** - Learn how to design a modern data architecture.
