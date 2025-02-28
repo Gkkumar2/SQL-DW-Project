@@ -64,7 +64,7 @@ The project follows the **Star Schema** modeling approach, which consists of:
 - **Fact Tables** - Storing transactional data
 - **Dimension Tables** - Storing descriptive information
 
-📌 * Data Model (Star Schema) *
+📌 *Data Model (Star Schema)*
 ![Data Model](https://github.com/Gkkumar2/SQL-DW-Project/blob/main/Docs/star%20schema.jpeg)
 
 ---
