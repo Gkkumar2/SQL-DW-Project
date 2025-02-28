@@ -87,10 +87,12 @@ The project follows the **Star Schema** modeling approach, which consists of:
 │   ├── ERP.csv
 │
 ├── 📂 Scripts
-│   ├── 01_create_database.sql
-│   ├── 02_create_schemas.sql
-│   ├── 03_load_data.sql
+│   ├── 📂 gold  ── ddl_gold.sql
+│   ├── 📂 silver ── ddl_silver.sql,proc_load_silver.sql
+│   ├── 📂 bronze ── ddl_bronze.sql,proc_load_bronze.sql
+|   ├── init_database.sql
 │
+|
 ├── 📂 Documentation
 │   ├── Data_Model_Diagram.png
 │   ├── ETL_Workflow.png
