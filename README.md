@@ -139,11 +139,11 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 For any questions or discussions, feel free to reach out:
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Gihan Kavinda Kumar](https://www.linkedin.com/in/gihan-kavinda-kumar-bs/)
 
 ---
 
-## 🎯 Next Steps
+## 🎯 Next Steps of this project
 - [ ] Finalize database schema
 - [ ] Implement ETL pipeline
 - [ ] Create data visualizations and dashboards
