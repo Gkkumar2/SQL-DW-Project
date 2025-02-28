@@ -136,7 +136,6 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 For any questions or discussions, feel free to reach out:
 - **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **GitHub Issues**: Open a ticket if you encounter any issues
 
 ---
 
