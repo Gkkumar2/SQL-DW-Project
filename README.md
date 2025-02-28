@@ -1,5 +1,9 @@
 # Modern SQL Data Warehouse Project
 
+![Data Integration Model](https://github.com/Gkkumar2/SQL-DW-Project/blob/main/Docs/datawarehouse.jpeg)
+
+---
+
 ## 🚀 Introduction
 Welcome to the **Modern SQL Data Warehouse Project**! This project is designed to help you build a **fully functional data warehouse** from scratch, while also learning real-world best practices and methodologies used in **industry-leading companies**.
 
