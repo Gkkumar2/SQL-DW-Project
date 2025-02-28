@@ -28,8 +28,7 @@ We will use **two data sources**:
 Both sources will be **consolidated and integrated** into a single **analytical data model**.
 
 📌 *Data Integration Model*
-![My Image]([https://github.com/username/repository/blob/main/path/to/image.png](https://github.com/Gkkumar2/SQL-DW-Project/blob/main/Docs/Intergration%20model%20(1).jpeg))
-
+![Data Integration Model](https://github.com/Gkkumar2/SQL-DW-Project/blob/main/Docs/Intergration%20model%20(1).jpeg)
 
 ---
 
