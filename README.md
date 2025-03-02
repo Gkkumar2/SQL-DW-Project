@@ -152,4 +152,4 @@ For any questions or discussions, feel free to reach out:
 Happy Coding! 🚀
 ---
 ## ➡️ Next part
-[Next](https://linkedin.com/in/yourprofile)
+[Next](https://github.com/Gkkumar2/SQL-DW-Project-Analysis.git)
